@@ -1,0 +1,154 @@
+{
+"gallery": [
+    {
+      "group": 1,
+      "imgSrc": "assets/image/gallery/gallery-img1.jpg",
+      "title": "meda"
+    },
+    {
+      "group": 1,
+      "imgSrc": "assets/image/gallery/gallery-img2.jpg",
+      "title": "zeka"
+    },
+    {
+      "group": 1,
+      "imgSrc": "assets/image/gallery/gallery-img3.jpg",
+      "title": "maca"
+    },
+    {
+      "group": 1,
+      "imgSrc": "assets/image/gallery/gallery-img4.jpg",
+      "title": "kuca"
+    },
+    {
+      "group": 1,
+      "imgSrc": "assets/image/gallery/gallery-img5.jpg",
+      "title": "mis"
+    },
+    {
+      "group": 1,
+      "imgSrc": "assets/image/gallery/gallery-img6.jpg",
+      "title": "jaje"
+    },
+    {
+      "group": 1,
+      "imgSrc": "assets/image/gallery/gallery-img7.jpg",
+      "title": "drvo"
+    },
+    {
+      "group": 1,
+      "imgSrc": "assets/image/gallery/gallery-img8.jpg",
+      "title": "oblak"
+    },
+    {
+      "group": 1,
+      "imgSrc": "assets/image/gallery/gallery-img9.jpg",
+      "title": "dada"
+    },
+    {
+      "group": 1,
+      "imgSrc": "assets/image/gallery/gallery-img10.jpg",
+      "title": "gug"
+    },
+    {
+      "group": 2,
+      "imgSrc": "assets/image/gallery/gallery-img1.jpg",
+      "title": "meda"
+    },
+    {
+      "group": 2,
+      "imgSrc": "assets/image/gallery/gallery-img2.jpg",
+      "title": "zeka"
+    },
+    {
+      "group": 2,
+      "imgSrc": "assets/image/gallery/gallery-img3.jpg",
+      "title": "maca"
+    },
+    {
+      "group": 2,
+      "imgSrc": "assets/image/gallery/gallery-img4.jpg",
+      "title": "kuca"
+    },
+    {
+      "group": 2,
+      "imgSrc": "assets/image/gallery/gallery-img5.jpg",
+      "title": "mis"
+    },
+    {
+      "group": 2,
+      "imgSrc": "assets/image/gallery/gallery-img6.jpg",
+      "title": "jaje"
+    },
+    {
+      "group": 2,
+      "imgSrc": "assets/image/gallery/gallery-img7.jpg",
+      "title": "drvo"
+    },
+    {
+      "group": 2,
+      "imgSrc": "assets/image/gallery/gallery-img8.jpg",
+      "title": "oblak"
+    },
+    {
+      "group": 2,
+      "imgSrc": "assets/image/gallery/gallery-img9.jpg",
+      "title": "dada"
+    },
+    {
+      "group": 2,
+      "imgSrc": "assets/image/gallery/gallery-img10.jpg",
+      "title": "gug"
+    },
+    {
+      "group": 3,
+      "imgSrc": "assets/image/gallery/gallery-img1.jpg",
+      "title": "meda"
+    },
+    {
+      "group": 3,
+      "imgSrc": "assets/image/gallery/gallery-img2.jpg",
+      "title": "zeka"
+    },
+    {
+      "group": 3,
+      "imgSrc": "assets/image/gallery/gallery-img3.jpg",
+      "title": "maca"
+    },
+    {
+      "group": 3,
+      "imgSrc": "assets/image/gallery/gallery-img4.jpg",
+      "title": "kuca"
+    },
+    {
+      "group": 3,
+      "imgSrc": "assets/image/gallery/gallery-img5.jpg",
+      "title": "mis"
+    },
+    {
+      "group": 3,
+      "imgSrc": "assets/image/gallery/gallery-img6.jpg",
+      "title": "jaje"
+    },
+    {
+      "group": 3,
+      "imgSrc": "assets/image/gallery/gallery-img7.jpg",
+      "title": "drvo"
+    },
+    {
+      "group": 3,
+      "imgSrc": "assets/image/gallery/gallery-img8.jpg",
+      "title": "blak"
+    },
+    {
+      "group": 3,
+      "imgSrc": "assets/image/gallery/gallery-img9.jpg",
+      "title": "dada"
+    },
+    {
+      "group": 3,
+      "imgSrc": "assets/image/gallery/gallery-img10.jpg",
+      "title": "gug"
+    }
+  ]
+}
